@@ -1,0 +1,28 @@
+_repo: Chattanooga-or-Lookout-Mountain-and-Missionary-Ridge-from-Moccasin-Point_34242
+_version: 0.1.0
+alternative_title: Chattanooga, Lookout Mountain, Missionary Ridge
+covers:
+- cover_type: archival
+  image_path: 34242-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Bradford Ripley, Jr.
+    gutenberg_agent_id: '36900'
+    url: http://www.gutenberg.org/2009/agents/36900
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34242'
+  lccn: 08031336
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionary Ridge, Battle of, Tenn., 1863'
+- !lcsh 'Chattanooga, Battle of, Chattanooga, Tenn., 1863'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+title: Chattanooga or Lookout Mountain and Missionary Ridge from Moccasin Point
+url: http://www.gutenberg.org/ebooks/34242
